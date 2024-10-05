@@ -1,4 +1,4 @@
-# CPP-HelloWorld
+# CPP-Template
 
 https://sourceforge.net/projects/mingw/
 
