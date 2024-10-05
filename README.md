@@ -2,9 +2,13 @@
 
 https://sourceforge.net/projects/mingw/
 
+```bash
 g++ main.cpp -o main.exe
+```
 
+```bash
 g++ main.cpp -o main.dll
+```
 
 <br>
 
