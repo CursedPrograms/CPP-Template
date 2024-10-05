@@ -1,3 +1,7 @@
+<div align="center">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%23323330.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
 # CPP-Template
 
 https://sourceforge.net/projects/mingw/
