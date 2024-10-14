@@ -34,7 +34,7 @@ Run: runmain.bat
 
 <br>
 <div align="center">
-© Cursed Entertainment 2024
+© Cursed Entertainment
 </div>
 <br>
 <a href="https://cursed-entertainment.itch.io/" target="_blank">
