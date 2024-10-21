@@ -12,15 +12,14 @@
 
 # CPP-Template
 
-https://sourceforge.net/projects/mingw/
-
 ### Make an EXE
 
 ```bash
 g++ main.cpp -o main.exe
 ```
 
-or Run: exemake.bat
+or Run:
+- `.\exemake.bat`
 
 ### Make a DLL
 
@@ -28,9 +27,11 @@ or Run: exemake.bat
 g++ main.cpp -o main.dll
 ```
 
-or Run: dllmake.bat
+or Run: 
+- `.\dllmake.bat`
 
-Run: runmain.bat
+Run: 
+- `.\runmain.bat`
 
 <br>
 <div align="center">
